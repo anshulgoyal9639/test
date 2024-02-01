@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_URL   = 'https://example.com/sample-image.jpg'
+        IMAGE_URL   = 'https://samples-files.com/samples/Images/jpg/480-360-sample.jpg'
         OUTPUT_PATH = 'downloaded-image.jpg'
     }
 
